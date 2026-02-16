@@ -65,6 +65,10 @@ These files are dummy inputs included for demonstration purposes only. They are 
 The latest release (**v1.1.0**) with production wafermap color coding is available here:  
 [➡️ Download CSV Workflow Automation Tool v1.1.0](https://github.com/roannelafuente/CSV-Workflow-Automation-v1.1.0/releases/tag/v1.1.0)
 
+▶️ **Usage**
+- Run the .exe to launch the dashboard and 
+explore the features.
+
 ---
 
 ## 👩‍💻 Author
